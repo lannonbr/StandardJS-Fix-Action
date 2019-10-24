@@ -1,0 +1,12 @@
+{
+  "name": "standardjs-fix-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Benjamin Lannon <benjamin@lannonbr.com>",
+  "dependencies": {
+    "@actions/github": "1.1.0",
+    "@actions/core": "1.2.0",
+    "@actions/exec": "1.0.1"
+  }
+}
